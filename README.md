@@ -3,9 +3,9 @@
 
 操作流程：
 
-对该多功能数字钟的控制是通过三个按键实现的，按键如实物图2所示。 从上到下，按键的功能分别是：（1）第1个按键是KEYSET,按一次，设置模式数加一，可以设置11种工作模式，对应0-10初始设置模式为0。（2）第2 个按键是KEYADD.用来实现对时间的增大设置，操作时可以按一次加1,也可 以 长按 按键实现连续加1-（3）第3个按键是KEYSUB.用来实现对时间的减 小设置，操作时可以按一次减L也可以长按按键实现连续减1。
+对该多功能数字钟的控制是通过三个按键实现的。 按键的功能分别是：（1）第1个按键是KEYSET,按一次，设置模式数加一，可以设置11种工作模式，对应0-10初始设置模式为0。（2）第2 个按键是KEYADD.用来实现对时间的增大设置，操作时可以按一次加1,也可以长按按键实现连续加1-（3）第3个按键是KEYSUB.用来实现对时间的减小设置，操作时可以按一次减L也可以长按按键实现连续减1。
 
-![image]([F:\git\多功能数字电表\img\多功能数字电表操作详解.png](https://github.com/duanwei99/Multifunctional-Digital-Meter/blob/master/img/%E5%A4%9A%E5%8A%9F%E8%83%BD%E6%95%B0%E5%AD%97%E7%94%B5%E8%A1%A8%E6%93%8D%E4%BD%9C%E8%AF%A6%E8%A7%A3.png)https://github.com/duanwei99/Multifunctional-Digital-Meter/blob/master/img/%E5%A4%9A%E5%8A%9F%E8%83%BD%E6%95%B0%E5%AD%97%E7%94%B5%E8%A1%A8%E6%93%8D%E4%BD%9C%E8%AF%A6%E8%A7%A3.png)
+![image](https://github.com/duanwei99/Multifunctional-Digital-Meter/blob/master/img/Detailed%20diagram.png)
 
 注释：1、在某一个显示模式确定的情况下，只能进入与之想对应的的设置 模式，才能修该显示模式的数据。如：在显示模式为年的时候，你可以将设置 模式调到1或2,通过按键加和减就能设置时间的年数：在显示模式为时的时 候，你可以将设置模式调到3,就能设置闹铃的小时数。
 
